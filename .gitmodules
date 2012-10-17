@@ -1,0 +1,3 @@
+[submodule "aws"]
+	path = aws
+	url = git://github.com/timkay/aws.git
